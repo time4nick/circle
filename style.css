@@ -1,1 +1,24 @@
 /* style sheet for circle area. */
+main {
+  background-color: antiquewhite;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+.entry {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+}
+#btnSub {
+  margin-left: 1rem;
+}
